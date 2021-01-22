@@ -1,0 +1,7 @@
+@tailwind base;
+/* 進行CSS的前處理: 如Normalize.css等等 */
+
+@tailwind components;
+@tailwind utilities;
+
+/* 在這個區域撰寫基於Tailwind，或者覆蓋Tailwind的部分 */
